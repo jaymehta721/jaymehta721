@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Jay Mehta. I like ❤️ programming and currently working as Game Developer </p>
+<p align="center"> I am Jay Mehta. I like ❤️ programming and currently working as a Tools Programmer </p>
 
 <h3 align="center"> Language & Skills </h3>
 
